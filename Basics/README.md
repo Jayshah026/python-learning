@@ -1,3 +1,12 @@
+## Basic Structure 
+
+- Here in python we don't have to use.. #, ;, include etc.. just like in C++. 
+- We can directly use "print" to print something. 
+- We can save name, data types etc.. can use directly without difine that it's string or int.
+- In for loop we don't have to use {} to cover code. 
+- And more thing in python is easy to use and understand. 
+- For Example i have written one simplest program Hello World in HelloWorld.py 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Modules 
 
 - A modules is a file containing code written by someone else which can be imported and used in our programs.
