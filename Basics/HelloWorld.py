@@ -8,6 +8,6 @@ OUTPUT :
 Hello World
 
 
-Explanation : 
+""" Explanation : 
 
-"A simple Program of python to print Hello World."
+A simple Program of python to print Hello World. """
