@@ -10,7 +10,7 @@
 Marks = {
   "Jay" : 100,
   "Joy" : 90,
-  "Jiya" : 42
+  "Jiya" : 42,
   45 : "Riya"
   }
 
