@@ -17,5 +17,12 @@ Marks = {
 - Here Marks is the name of the dictionary. 
 - "=" After dictionary name is compulsory, if not then python will not recognize Marks as a Dictionary.
 - In Dictionary we can store multiple values and to assing value to key we use " : ", and at last we use " , " to know there is more value ahead.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Sets 
 
+- It's a data type in which we can store multiple values of different data types.
+- Here each value will be Unique. No value can be repeated.
 
+Syntax : 
+
+s = {value1, value2, value5}
