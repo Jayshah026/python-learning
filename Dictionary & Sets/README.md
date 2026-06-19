@@ -3,7 +3,7 @@
 - It's a data type which stores values as a key and value.
 - Here the key must be unique.
 - Dictionary is mutable data type.
-- 
+
 
 - Basic structure or syntax of Disctionary :
 
