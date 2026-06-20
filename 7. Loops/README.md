@@ -5,6 +5,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  while loop 
 
+```Python
+
 - Basic structure of while loop
 
 i = 0
@@ -18,8 +20,10 @@ while(i < 11)
 - After that we apply the increment/decrement as per the condition. 
 - This is how a "while loop" works.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
 ## for loop 
 
+```Python
 - Basic structure of for loop 
 
 for i in range(1, 11):
@@ -30,3 +34,4 @@ for i in range(1, 11):
 - So here the loop will run for 1 to 10, 1 = starting point & 11 = Ending point which is not included. 
 - Then we can print values easily with the use of print. 
 - That's how for loop works
+```
