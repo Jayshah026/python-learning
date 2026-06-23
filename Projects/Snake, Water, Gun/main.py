@@ -43,3 +43,54 @@ else:
 
 print("")
 print("Well played")
+
+
+
+"""
+OUTPUT : 
+
+Welcome to the Snake, Water & Gun game
+
+Here
+ s = snake 
+ w = water 
+ g = gun 
+
+Enter your choises form "s, w, g" :  s
+The computer choice is Snake 
+And your choice is Snake
+It's a draw, Try again
+
+Well played
+
+
+Welcome to the Snake, Water & Gun game
+
+Here
+ s = snake 
+ w = water 
+ g = gun 
+
+Enter your choices form "s, w, g" :  g
+The computer choice is Water 
+And your choice is Gun
+you have Lost the game 😫
+
+Well played
+
+
+Welcome to the Snake, Water & Gun game
+
+Here
+ s = snake 
+ w = water 
+ g = gun 
+
+Enter your choices form "s, w, g" :  g
+The computer choice is Snake 
+And your choice is Gun
+you have Won the game 😝
+
+Well played
+
+"""
