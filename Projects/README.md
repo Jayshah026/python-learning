@@ -6,7 +6,9 @@ These projects are part of my learning journey and help me apply the concepts co
 
 ## Current Projects
 
-* Snake, Water & Gun Game
+* Snake-Water-Gun Game
+* Guess the correct number Game
+
 * More projects coming soon...
 
 ## Purpose
