@@ -6,6 +6,8 @@ A simple Python console-based game where the computer randomly selects a number 
 
 ## Important Concepts Learned from the "Guess the Number" Game
 
+```python
+
 * Imported the `random` module to generate a random number for the game.
 
 * Used `random.randint(start, end)` to generate a random integer within a specified range.
