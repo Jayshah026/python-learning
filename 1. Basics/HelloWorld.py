@@ -1,11 +1,11 @@
-Code :
+# Code :
 
 print("Hello World")
 
 
-OUTPUT : 
+# OUTPUT : 
 
-Hello World
+# Hello World
 
 
 """ 

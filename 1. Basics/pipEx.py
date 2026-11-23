@@ -1,4 +1,4 @@
-Code : 
+""" Code : """
 
 import pyjokes
 
@@ -7,12 +7,13 @@ joke = pyjokes.get_joke()
 print(joke)
 
 
-OUTPUT : 
+
+""" OUTPUT : 
 
 Why do we want intelligent terminals when there are so many stupid users?
 
 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
-
+"""
 
 """
 
